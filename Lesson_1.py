@@ -5,7 +5,7 @@ info = 'OS info is \n{}\n\nPython version is {} {} {}'.format(
     platform.uname(),
     sys.version,
     platform.architecture(),
-    'сельдерей хурейй',
+    'сельдерей ююююрейй',
 )
 
 
